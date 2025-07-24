@@ -5,7 +5,7 @@ Mit diesem Python-Skript kannst du in wenigen Schritten QR-Codes generieren – 
 
 ---
 
-## 📌 Funktionen
+## Funktionen
 
 - Erstellt QR-Codes für jede beliebige URL
 - Automatische Einbindung eines Logos in der Mitte
@@ -14,7 +14,7 @@ Mit diesem Python-Skript kannst du in wenigen Schritten QR-Codes generieren – 
 
 ---
 
-## 📁 Projektübersicht
+## Projektübersicht
 
 ```bash
 📦 dein-projekt/
@@ -26,7 +26,7 @@ Mit diesem Python-Skript kannst du in wenigen Schritten QR-Codes generieren – 
 
 ---
 
-## 🛠️ Voraussetzungen
+## Voraussetzungen
 
 - **Python 3.x**
 - Die folgenden Python-Pakete:
@@ -37,7 +37,7 @@ pip install qrcode[pil]
 
 ---
 
-## ⚙️ Verwendung
+## Verwendung
 
 1. **Projekt klonen oder herunterladen**
 
@@ -62,7 +62,7 @@ pip install qrcode[pil]
 
 ---
 
-## ✏️ Anpassungen
+## Anpassungen
 
 - **Logo-Größe:**  
   Passe den Wert in dieser Zeile an:
@@ -83,7 +83,7 @@ pip install qrcode[pil]
 
 ---
 
-## 🧠 Beispielanwendung
+## Beispielanwendung
 
 ![qr_code_preview](qr_mit_logo.png)
 
