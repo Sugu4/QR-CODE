@@ -68,7 +68,7 @@ pip install qrcode[pil]
   Passe den Wert in dieser Zeile an:
 
   ```python
-  logo = logo.resize((66, 66), Image.LANCZOS)
+  logo = logo.resize((60, 60), Image.LANCZOS)
   ```
 
 - **Farben:**  
