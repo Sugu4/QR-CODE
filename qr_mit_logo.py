@@ -33,3 +33,4 @@ qr_img.paste(logo_no_transparency, pos)  # kein mask nötig
 # === Speichern + Anzeigen ===
 qr_img.save(output_path)
 qr_img.show()
+
