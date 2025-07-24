@@ -1,5 +1,5 @@
 
-# 🔳 QR-Code Generator mit Logo-Einbindung
+# QR-Code Generator mit Logo-Einbindung
 
 Mit diesem Python-Skript kannst du in wenigen Schritten QR-Codes generieren – **inklusive eigenem Logo in der Mitte**. Ideal für persönliche Webseiten, Bewerbungen, Visitenkarten oder Marketingprojekte.
 
@@ -18,10 +18,10 @@ Mit diesem Python-Skript kannst du in wenigen Schritten QR-Codes generieren – 
 
 ```bash
 📦 dein-projekt/
- ┣ 📄 qr_mit_logo.py         # Hauptskript zur Erstellung des QR-Codes
- ┣ 🖼️ logoSG.png             # Dein eigenes Logo (quadratisch, transparent oder ohne)
- ┣ 🖼️ qr_mit_logo.png        # Das Ergebnis – QR-Code mit integriertem Logo
- ┗ 📄 README.md              # Diese Datei
+ ┣  qr_mit_logo.py         # Hauptskript zur Erstellung des QR-Codes
+ ┣  logoSG.png             # Dein eigenes Logo (quadratisch, transparent oder ohne)
+ ┣  qr_mit_logo.png        # Das Ergebnis – QR-Code mit integriertem Logo
+ ┗  README.md              # Diese Datei
 ```
 
 ---
@@ -89,13 +89,13 @@ pip install qrcode[pil]
 
 ---
 
-## 📄 Lizenz
+## Lizenz
 
 Dieses Projekt steht unter der **MIT-Lizenz**. Du darfst es frei verwenden, verändern und veröffentlichen.
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Süleyman Gümüs**  
 
