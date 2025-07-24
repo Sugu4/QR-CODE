@@ -17,7 +17,7 @@ Mit diesem Python-Skript kannst du in wenigen Schritten QR-Codes generieren – 
 ## Projektübersicht
 
 ```bash
-📦 dein-projekt/
+ dein-projekt/
  ┣  qr_mit_logo.py         # Hauptskript zur Erstellung des QR-Codes
  ┣  logoSG.png             # Dein eigenes Logo (quadratisch, transparent oder ohne)
  ┣  qr_mit_logo.png        # Das Ergebnis – QR-Code mit integriertem Logo
