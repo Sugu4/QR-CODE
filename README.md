@@ -101,23 +101,6 @@ Dieses Projekt steht unter der **MIT-Lizenz**. Du darfst es frei verwenden, ver�
 
 ---
 
-MIT License
+## MIT License
 
-Copyright © 2025 Süleyman Gümüs
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"),
-of this software and associated documentation files (the 'Software'), to use, copy, modify, merge, publish, distribute, sublicense, and to permit persons to whom the Software is furnished to do any of the foregoing.
-with the Software without restriction, including, without limitation, the rights
-to use, copy, modify, merge, publish, distribute, sublicense and of the Software, and to permit persons to whom the Software is
-furnished, to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice must be included in all
-copies or substantial portions of the Software.
-
-The Software is provided 'as is', without warranty of any kind, express or
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGE OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-Out of or in connection with the software or the use or other dealings in the
-SOFTWARE.
+Steht unter der [MIT-Lizenz](./LICENSE).
